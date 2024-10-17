@@ -1,5 +1,3 @@
----
-
 # Welcome to ENCIDE MACE! 💻
 
 **ENCIDE** is a dynamic student-run tech club at **Mar Athanasius College of Engineering**, uniting students passionate about coding and technology. Our mission is to foster innovation and create opportunities through engaging projects, events, and peer-to-peer learning.
